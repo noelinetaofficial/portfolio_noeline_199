@@ -30,6 +30,7 @@ const Home = () => {
         'Interactive contact form with real-time regex validation for email and phone',
         'Showcases verified credentials, hackathon projects, and technical skills'
       ],
+      codeUrl: 'https://github.com/noelinetaofficial/portfolio_noeline_199',
       featured: true
     },
     {

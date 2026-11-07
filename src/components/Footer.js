@@ -54,13 +54,22 @@ const Footer = () => {
           <p className="footer-text-muted">Connect with me across platforms:</p>
           <div className="footer-social-links">
             <a 
-              href="https://github.com" 
+              href="https://github.com/noelinetaofficial" 
               target="_blank" 
               rel="noopener noreferrer" 
               className="social-btn"
               aria-label="GitHub Profile"
             >
               GitHub
+            </a>
+            <a 
+              href="https://github.com/noelinetaofficial/portfolio_noeline_199" 
+              target="_blank" 
+              rel="noopener noreferrer" 
+              className="social-btn"
+              aria-label="GitHub Repository"
+            >
+              Repository
             </a>
             <a 
               href="https://linkedin.com" 
